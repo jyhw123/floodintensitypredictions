@@ -9,3 +9,5 @@ This project aims to create hydrological models to predict the streamflow rate o
 
 For this project, we decided to use 2 classes of Machine Learning models: Classical models and Deep Learning Models. Under the Classical models tier, we chose the SARIMAX Model and the XGBoost model, and chose the LSTM and Prophet Model for the Deep Learning tier. Classical models and Deep Learning models each have their benefits and drawbacks, which is why it is important to implement both tiers. Classical models, amongst many other things, benefit from shorter training time and less data required, whilst Deep Learning models might produce better performing predictions if configured properly.  
 
+This was a project carried out for a University of California Berkeley data science course. An A grade was achieved.
+
