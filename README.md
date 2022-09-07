@@ -1,5 +1,5 @@
 # surfacewaterhydrology
-**Comparisonal investigation of Classic vs Deep Learning models in predicting flood intensity in the CONUS**
+**Comparative investigation of Classic vs Deep Learning models in predicting flood intensity in the CONUS**
 
 The study of hydrology has allowed scientists to better understand the natural distribution and movement of water, as well as its interactions with our environment. Due to constant changes in the environment and weather, we are unable to fully comprehend the entire cycle, and hence this leads to high uncertainty in the predictions of future water patterns. 
 
